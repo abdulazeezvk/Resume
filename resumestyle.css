@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    /* margin-right: auto;
+    margin-left: auto; */
+    /* max-width:1000px; */
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 200mm;
+    height: 250mm;
+    margin: auto;
+}
+.aname{
+    justify-content: space-between;
+    display: flex;
+    background: #1d3557;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1.5em;
+}
+.hh{
+    color: white;
+    text-decoration: none;
+}
+.epi a{
+    text-decoration: none;
+    color: white;
+}
+.epi{
+    display: grid;
+}
+.aname i{
+    margin-right: 5px;
+}
+       /* english sentence writing */
+.oblod{
+    text-decoration-line: underline;
+    color: dodgerblue;
+    margin-bottom: 10px;
+    font-size: initial;
+    font-weight: initial;
+    text-transform: uppercase;
+}
+
+
+.pp{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.ppp{
+    color: gray;
+    margin-bottom: 5px;
+}
+.pppp{
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+.g-text{
+    margin-left: 20px;
+}
+.g-text li{
+    margin-bottom: 10px;
+}
+
+.blue-link{
+    text-decoration: none;
+    color: blue;
+}
+
+  /* english sentence writing 2  */
+
+
+.gybox{
+    display: flex;
+    gap: 10px;
+    color:white;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+}
+.py{
+    background: gray;
+    padding: 4px;
+    border-radius: 5px;
+}
+.gg{
+    display: flex;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
